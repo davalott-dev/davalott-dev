@@ -1,33 +1,41 @@
-# Hi, I'm Dava Lott 👋
+# Hi, I'm Dava! 👋
 
-I'm a Computer Science student with an Associate's degree in Cybersecurity.  
-I have hands-on experience in technical support and a passion for coding, problem-solving, and building hands-on projects to demonstrate practical experience in programming and IT tools.
-
----
-
-## 🔧 Skills & Tools
-- **Programming & Scripting:** Python, SQL, Bash/Linux
-- **Databases:** MySQL
-- **Tools & Platforms:** Git, GitHub, Salesforce, Zendesk, ServiceNow
-- **Other:** Problem-solving, troubleshooting, process improvement
+I’m a Computer Science student with an Associate's in Cybersecurity and hands-on experience in technical support.  
+I focus on **turning ideas into practical projects** while continuously learning new skills in coding, databases, and Linux.
 
 ---
 
-## 📂 Featured Projects
+## 🛠 Skills & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Other Tools:** Salesforce, Zendesk, ServiceNow  
+**Strengths:** Problem-solving, analytical thinking, troubleshooting, rapid learning  
+
+---
+
+## 📂 Highlighted Projects
 
 ### Linux Portfolio
-A collection of Linux projects demonstrating command-line skills and basic scripting.  
-[View Repository](https://github.com/davalott-dev/Linux-Portfolio)
+Command-line projects and mini-scripts demonstrating Linux fundamentals and scripting skills.  
+[Explore](https://github.com/davalott-dev/Linux-Portfolio)
 
 ### SQL Portfolio
-Projects using MySQL to practice database queries, joins, and data analysis.  
-[View Repository](https://github.com/davalott-dev/SQL-Portfolio)
+Practical SQL projects focused on queries, joins, and data analysis.  
+[Explore](https://github.com/davalott-dev/SQL-Portfolio)
 
 ---
 
-## 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/dava-lott-0454791a4? 
+## 🎯 Philosophy
+I believe the best way to learn is by **building, testing, and iterating**.  
+Every project is a chance to **solve real problems, refine my skills, and grow as a developer**.
 
 ---
 
-*Continuously learning and building skills in coding, databases, and IT tools. Check out my projects or reach out to connect!*
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dava-lott-0454791a4)
+
+*Always open to collaboration, new opportunities, and challenges that push me to learn more.*
