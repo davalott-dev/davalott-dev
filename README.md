@@ -21,15 +21,15 @@ I focus on **turning ideas into practical projects** while continuously learning
 
 ### Python Project
 Log Analyzer tool that scans log files for errors and warnings, with optional CSV export.
-
+[Explore](https://github.com/davalott-dev/Log-Analyzer)
 
 ### Linux Project
 Hands-on Linux project demonstrating system navigation, process management, and shell scripting.
-[Explore](https://github.com/davalott-dev/Linux-Portfolio)
+[Explore](https://github.com/davalott-dev/Linux-Cohort-Manager)
 
 ### SQL Project
 Quantigration SQL project featuring schema design, queries, and RMA data analysis.
-[Explore](https://github.com/davalott-dev/SQL-Portfolio)
+[Explore](https://github.com/davalott-dev/Quantigration-SQL)
 
 ---
 
