@@ -19,12 +19,16 @@ I focus on **turning ideas into practical projects** while continuously learning
 
 ## 📂 Highlighted Projects
 
-### Linux Portfolio
-Command-line projects and mini-scripts demonstrating Linux fundamentals and scripting skills.  
+### Python Project
+Log Analyzer tool that scans log files for errors and warnings, with optional CSV export.
+
+
+### Linux Project
+Hands-on Linux project demonstrating system navigation, process management, and shell scripting.
 [Explore](https://github.com/davalott-dev/Linux-Portfolio)
 
-### SQL Portfolio
-Practical SQL projects focused on queries, joins, and data analysis.  
+### SQL Project
+Quantigration SQL project featuring schema design, queries, and RMA data analysis.
 [Explore](https://github.com/davalott-dev/SQL-Portfolio)
 
 ---
