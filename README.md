@@ -1,6 +1,6 @@
 # Hi, I'm Dava! 👋
 
-I’m a **Computer Science student** with an Associate's in Cybersecurity and hands‑on experience in technical support.
+I’m a **Computer Science student** with an Associate's in Cybersecurity and hands-on experience in technical support.
 I build concrete solutions and focus on growing my skills in **cloud computing, Python, SQL, Linux, and automation**.
 
 ---
@@ -14,34 +14,30 @@ I build concrete solutions and focus on growing my skills in **cloud computing, 
 ![Shell Script](https://img.shields.io/badge/Shell-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 🛠 Other Tools
-
-Salesforce · Zendesk · ServiceNow
+**Other Tools:** Salesforce · Zendesk · ServiceNow
 
 ---
 
-## 🌥 Cloud‑First Highlights
+## ☁️ Cloud-First Highlights
 
-**🚀 [aws-static-website](https://github.com/davalott-dev/aws-static-website)**
-Static website hosted on AWS S3 + distributed via CloudFront. Demonstrates global delivery, cloud hosting and automation.
+**🚀 [AWS Static Website Hosting](https://github.com/davalott-dev/aws-static-website)**
+Static website hosted on **S3** and distributed via **CloudFront** for global delivery. Demonstrates cloud storage, content distribution, and deployment automation.
 
-**⚡ [aws-lambda-project](https://github.com/davalott-dev/aws-lambda-project)**
-Serverless automation with AWS Lambda. Event‑driven architecture triggered by file uploads, logging via CloudWatch, built with a cloud mindset.
+**⚡ [AWS Lambda Event-Driven Automation](https://github.com/davalott-dev/aws-lambda-project)**
+Serverless automation with **AWS Lambda**, triggered by **S3 file uploads** and logged via **CloudWatch**. Showcases event-driven cloud architecture.
 
 ---
 
-## 📂 Additional Projects
+## 💻 Additional Projects
 
-**🐍 [Log‑Analyzer](https://github.com/davalott-dev/Log-Analyzer)**
-Python application to scan log files for errors & warnings and optionally exports results to CSV. Demonstrates scripting, parsing, and automation.
+**🐍 [Log-Analyzer](https://github.com/davalott-dev/Log-Analyzer)**
+Python application to scan log files for errors and warnings, with optional CSV export. Demonstrates scripting, parsing, and automation.
 
-**🐧 [Linux‑Cohort‑Manager](https://github.com/davalott-dev/Linux-Cohort-Manager)**
-Hands‑on Linux project showing system navigation, process management, and shell scripting in a practical scenario.
+**🐧 [Linux-Cohort-Manager](https://github.com/davalott-dev/Linux-Cohort-Manager)**
+Hands-on Linux project covering system navigation, process management, and shell scripting.
 
-**🗄 [Quantigration‑SQL](https://github.com/davalott-dev/Quantigration-SQL)**
-SQL schema design with queries and data analysis around RMA processes — showcases database skills and analytical thinking.
+**🗄 [Quantigration-SQL](https://github.com/davalott-dev/Quantigration-SQL)**
+SQL schema design with queries and RMA data analysis — showcases database design and analytical skills.
 
 ---
 
@@ -54,5 +50,5 @@ Every project is an opportunity to **solve a real problem, sharpen my skills, an
 
 ## 📫 Connect
 
-I’m always open to **collaborations, new opportunities**, and **challenges that push me to learn more**.
+I’m always open to **collaboration, new opportunities**, and **challenges that push me to learn more**.
 Let’s connect and build something great together!
